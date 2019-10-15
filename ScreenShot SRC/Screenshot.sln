@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScreenShot By Aem", "Screenshot\ScreenShot By Aem.vbproj", "{495E7D1B-F96B-4F85-9A7E-322ED520CD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495E7D1B-F96B-4F85-9A7E-322ED520CD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495E7D1B-F96B-4F85-9A7E-322ED520CD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495E7D1B-F96B-4F85-9A7E-322ED520CD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E7D1B-F96B-4F85-9A7E-322ED520CD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
