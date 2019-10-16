@@ -1,5 +1,5 @@
 # Screenshot - A3M404
-Sample ScreenShot
+Simple ScreenShot
 
 <h1>Inside Program :</h1>
 
